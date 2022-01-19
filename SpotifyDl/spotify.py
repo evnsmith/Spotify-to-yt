@@ -119,5 +119,4 @@ def get_playlist_name(playlist_id):
 
 
 
-'https://open.spotify.com/playlist/7vfgcYzHtkunhNz78FtJLA '
-'spotdl https://open.spotify.com/playlist/7vfgcYzHtkunhNz78FtJLA -o /Video/audio/{playlist}/{title}-{artist}.{ext}'
+
