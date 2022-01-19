@@ -155,11 +155,8 @@ def video_data(songs):
                       f"{song.song_name} - {song.spotify_song_url}\n" \
                       f"\n" \
                       f"\n" \
-                      f"{lyrics}" \
-                      f"\n" \
-                      f"\n" \
-                      f"my email - evansmith0071@gmail.com\n" \
-                      f"my instagram - https://www.instagram.com/evansnclr/"
+                      f"{lyrics}" 
+
 
 
 
